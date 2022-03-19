@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c10f405-9f05-48d1-8f3e-0b0d8c53d20c": {
+      "ProjectGuid": "5c10f405-9f05-48d1-8f3e-0b0d8c53d20c",
+      "DisplayName": "BowlingBall.Tests",
+      "ColorIndex": 0
+    },
+    "bd831a31-6c11-426d-96e6-8496d5d36ea4": {
+      "ProjectGuid": "bd831a31-6c11-426d-96e6-8496d5d36ea4",
+      "DisplayName": "BowlingBall",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
